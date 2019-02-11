@@ -1,0 +1,7 @@
+{
+	"name": "cspell.cfml",
+	"description": "Add Coldfusion language terms to cSpell",
+	"scripts": {
+		"build": "npm run ./src/index.js"
+	}
+}

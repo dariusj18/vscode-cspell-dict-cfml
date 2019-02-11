@@ -1,0 +1,22 @@
+{
+	"version": "0.1",
+	"dictionaryDefinitions": [
+		{
+			"name": "tags",
+			"path": "./dictionaries/tags.txt"
+		},
+		{
+			"name": "functions",
+			"path": "./dictionaries/functions.txt"
+		}
+	],
+	"languageSettings": [
+		{
+			"languageId": "cfml",
+			"dictionaries": [
+				"tags",
+				"functions"
+			]
+		}
+	]
+}
