@@ -1,0 +1,3 @@
+[submodule "lib/cfdocs"]
+	path = lib/cfdocs
+	url = https://github.com/foundeo/cfdocs.git
