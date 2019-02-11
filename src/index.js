@@ -15,9 +15,9 @@ var cspell = {
 	]
 };
 
-fs.writeFile('./build/cSpell.json', JSON.stringify(cspell, null, '\t'),  'utf8',  function(err) {
+fs.writeFile('./build/cspell.json', JSON.stringify(cspell, null, '\t'),  'utf8',  function(err) {
 	if (err) throw err;
-	console.log('Wrote cSpell.json');
+	console.log('Wrote cspell.json');
 });
 
 var fileFunctions = './build/functions.txt';
