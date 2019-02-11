@@ -1,13 +1,15 @@
 {
+	"id": "cfml-entities",
+	"name": "CFML Entities",
 	"version": "0.1",
 	"dictionaryDefinitions": [
 		{
 			"name": "tags",
-			"path": "./dictionaries/tags.txt"
+			"path": "./tags.txt"
 		},
 		{
 			"name": "functions",
-			"path": "./dictionaries/functions.txt"
+			"path": "./functions.txt"
 		}
 	],
 	"languageSettings": [
